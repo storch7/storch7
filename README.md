@@ -2,7 +2,7 @@
 
 # Guilherme Storch
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Junior+Business+Analyst;Salesforce;Customer+Experience+Focused" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Junior+Business+Analyst;Salesforce+Specialist;Customer+Experience+Focused" alt="Typing SVG" />
 
 **Software Engineering Student** at University of Brasília (UnB)  
 **Junior Business Analyst** at Brasal Incorporações
@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-storch/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermestorch7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/g-storch)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/storch7)
 
 </div>
 
@@ -29,36 +29,24 @@ My professional journey integrates **technology**, **user experience**, and **bu
 
 In recent years, I have actively participated in the implementation, support, and continuous evolution of the **Salesforce ecosystem**, working from go-live through day-to-day maintenance.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" alt="Salesforce" width="20" height="20" /> Salesforce Expertise
+### ☁️ Salesforce Expertise
 
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Service_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Service Cloud"/><br>
-      <sub><b>Service Cloud</b></sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Field_Service-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Field Service"/><br>
-      <sub><b>Field Service</b></sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Flows-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Flows"/><br>
-      <sub><b>Flows & Automation</b></sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Administration-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Admin"/><br>
-      <sub><b>Administration</b></sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+![Service Cloud](https://img.shields.io/badge/Service_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Field Service](https://img.shields.io/badge/Field_Service-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Flows](https://img.shields.io/badge/Flows_&_Automation-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Administration](https://img.shields.io/badge/Administration-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+</div>
 
 | Area | Skills |
 |:-----|:-------|
-| <img src="https://img.shields.io/badge/●-00A1E0?style=flat-square" /> **Platforms** | Service Cloud, Field Service |
-| <img src="https://img.shields.io/badge/●-0A66C2?style=flat-square" /> **Support** | Level 1 & Level 2 Support |
-| <img src="https://img.shields.io/badge/●-181717?style=flat-square" /> **Administration** | Profiles, Permissions, Security |
-| <img src="https://img.shields.io/badge/●-EA4335?style=flat-square" /> **Development** | Flows, Validations, Process Automation |
-| <img src="https://img.shields.io/badge/●-34A853?style=flat-square" /> **Documentation** | Technical & User Documentation |
+| 🔹 **Platforms** | Service Cloud, Field Service |
+| 🔹 **Support** | Level 1 & Level 2 Support |
+| 🔹 **Administration** | Profiles, Permissions, Security |
+| 🔹 **Development** | Flows, Validations, Process Automation |
+| 🔹 **Documentation** | Technical & User Documentation |
 
 > *Ensuring platform performance, security, and user adoption.*
 
@@ -74,6 +62,7 @@ In recent years, I have actively participated in the implementation, support, an
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -84,15 +73,14 @@ In recent years, I have actively participated in the implementation, support, an
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Graduation%20Cap.png" alt="Education" width="25" height="25" /> Education
+## 🎓 Education
 
 <div align="center">
 
-| | |
-|:--:|:--|
-| <img src="https://img.shields.io/badge/UnB-003366?style=for-the-badge" alt="UnB"/> | **University of Brasília** |
-| | Bachelor's in Software Engineering |
-| | *In Progress* |
+![University](https://img.shields.io/badge/University_of_Brasília_(UnB)-003366?style=for-the-badge&logo=academia&logoColor=white)
+
+**Bachelor's in Software Engineering**  
+📍 Brasília, Brazil | 📅 *In Progress*
 
 </div>
 
@@ -102,8 +90,8 @@ In recent years, I have actively participated in the implementation, support, an
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=g-storch&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0A66C2&icon_color=00A1E0&text_color=181717"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-storch&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0A66C2&text_color=181717"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=storch7&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0A66C2&icon_color=00A1E0&text_color=181717"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=storch7&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0A66C2&text_color=181717"/>
 
 </div>
 
@@ -113,26 +101,23 @@ In recent years, I have actively participated in the implementation, support, an
 
 <div align="center">
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=g-storch&theme=default&hide_border=true&background=ffffff&stroke=0A66C2&ring=00A1E0&fire=EA4335&currStreakNum=181717&sideNums=181717&currStreakLabel=0A66C2&sideLabels=0A66C2&dates=6B7280" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=storch7&theme=default&hide_border=true&background=ffffff&stroke=0A66C2&ring=00A1E0&fire=EA4335&currStreakNum=181717&sideNums=181717&currStreakLabel=0A66C2&sideLabels=0A66C2&dates=6B7280" alt="GitHub Streak"/>
 
 </div>
 
 <br>
 
-<!-- Contribution Graph -->
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=g-storch&bg_color=ffffff&color=0A66C2&line=00A1E0&point=EA4335&area=true&area_color=00A1E0&hide_border=true" alt="Contribution Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=storch7&bg_color=ffffff&color=0A66C2&line=00A1E0&point=EA4335&area=true&area_color=00A1E0&hide_border=true" alt="Contribution Graph" width="95%"/>
 
 </div>
 
 <br>
 
-<!-- Trophies -->
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=g-storch&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7&title_color=0A66C2" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=storch7&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7&title_color=0A66C2" alt="GitHub Trophies"/>
 
 </div>
 
@@ -142,21 +127,21 @@ In recent years, I have actively participated in the implementation, support, an
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g-storch&theme=default" alt="Profile Details" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=storch7&theme=default" alt="Profile Details" width="95%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=g-storch&theme=default" alt="Repos per Language" height="160em"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=g-storch&theme=default" alt="Most Commit Language" height="160em"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=g-storch&theme=default" alt="Stats" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=storch7&theme=default" alt="Repos per Language" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=storch7&theme=default" alt="Most Commit Language" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=storch7&theme=default" alt="Stats" height="160em"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=g-storch&theme=default&utcOffset=-3" alt="Productive Time" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=storch7&theme=default&utcOffset=-3" alt="Productive Time" height="160em"/>
 
 </div>
 
@@ -167,9 +152,9 @@ In recent years, I have actively participated in the implementation, support, an
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/g-storch/g-storch/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/g-storch/g-storch/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/g-storch/g-storch/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/storch7/storch7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/storch7/storch7/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/storch7/storch7/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -178,11 +163,11 @@ In recent years, I have actively participated in the implementation, support, an
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=g-storch&color=0A66C2&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=storch7&color=0A66C2&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/g-storch?label=Followers&style=flat-square&color=0A66C2" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/storch7?label=Followers&style=flat-square&color=0A66C2" alt="Followers"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/stars/g-storch?label=Stars&style=flat-square&color=00A1E0" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/storch7?label=Stars&style=flat-square&color=00A1E0" alt="Stars"/>
 
 <br><br>
 
