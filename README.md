@@ -1,7 +1,5 @@
 ## Hi everyone! Guilherme Storch here <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Index%20Finger%20and%20Thumb%20Crossed%20Medium%20Skin%20Tone.png" alt="Hand with Index Finger and Thumb Crossed Medium Skin Tone" width="25" height="25" />
 
-I'm a Sofware Engeneering student at Universidade de Brasília (UnB), Brazil.
+I am an undergraduate student in Software Engineering at the University of Brasília (UnB) and currently work as a Junior Business Analyst, supporting the Customer Experience area at Brasal Incorporações. My professional journey integrates technology, user experience, and business, with a focus on transforming processes, improving customer journeys, and delivering scalable solutions.
 
-![Storch's GitHub stats](https://github-readme-stats.vercel.app/api?username=storch7&theme=panda&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=storch7&layout=compact&theme=panda)
-
+In recent years, I have actively participated in the implementation, support, and continuous evolution of the Salesforce ecosystem, working from go-live through day-to-day maintenance. I have experience with Service Cloud and Field Service, Level 1 and Level 2 support, administration, and the creation of processes, validations, profiles, flows, and documentation, ensuring platform performance, security, and user adoption.
